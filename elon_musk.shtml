@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elon Musk Timeline</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .timeline {
+            background: #fff;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .timeline h2 {
+            text-align: center;
+            color: #333;
+        }
+        .timeline ul {
+            list-style: none;
+            padding: 0;
+        }
+        .timeline ul li {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        .timeline ul li:last-child {
+            border-bottom: none.
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Elon Musk Timeline</h1>
+        <div class="timeline">
+            <h2>Elon Musk</h2>
+            <ul>
+                <li>1971: Born in Pretoria, South Africa</li>
+                <li>2002: Founded SpaceX</li>
+                <li>2004: Joined Tesla Motors</li>
+                <li>2015: Founded OpenAI</li>
+                <li>2016: Founded Neuralink</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
